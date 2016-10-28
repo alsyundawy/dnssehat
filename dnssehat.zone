@@ -1,0 +1,14 @@
+$TTL 3600
+@       IN      SOA     beo.dionipe.id       me.dionipe.id. (
+        2910201601;
+        3600;
+        300;
+        86400;
+        60);
+        IN      NS      beo.dionipe.id.
+
+dnssehat IN A 103.26.101.50
+beo	 IN A 127.0.0.1
+
+$INCLUDE /usr/local/etc/namedb/dnssehat01.zone; 
+$INCLUDE /usr/local/etc/namedb/dnssehat02.zone;
