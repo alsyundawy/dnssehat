@@ -10,5 +10,5 @@ $TTL 3600
 dnssehat IN A 103.26.101.50
 beo	 IN A 127.0.0.1
 
-$INCLUDE /usr/local/etc/namedb/dnssehat01.zone; 
-$INCLUDE /usr/local/etc/namedb/dnssehat02.zone;
+$INCLUDE /usr/local/etc/namedb/dnssehat/dnssehat01.zone; 
+$INCLUDE /usr/local/etc/namedb/dnssehat/dnssehat02.zone;
