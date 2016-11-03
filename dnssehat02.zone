@@ -5015,3 +5015,5 @@ bioskop55.club IN  CNAME dnssehat
 *.media-nkri.net IN  CNAME dnssehat
 *.lontaranews.com IN  CNAME dnssehat
 *.nusanews.com IN  CNAME dnssehat
+*.suara-islam.com IN CNAME dnssehat
+*.jurnalmuslim.com IN CNAME dnssehat
