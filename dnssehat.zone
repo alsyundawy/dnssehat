@@ -1,5 +1,5 @@
 $TTL 3600
-@       IN      SOA     beo.dionipe.id       me.dionipe.id. (
+@       IN      SOA     beo       me.dionipe.id. (
         2910201601;
         3600;
         300;
@@ -8,6 +8,11 @@ $TTL 3600
         IN      NS      beo.dionipe.id.
 
 dnssehat IN A 103.26.101.50
+www	 IN A 203.84.157.10
+cdn	 IN A 203.84.157.10
+cdn 	 IN A 103.26.101.51
+cdn-dnssehat IN A 203.84.157.10
+cdn-dnssehat IN A 103.26.101.51
 beo	 IN A 127.0.0.1
 
 $INCLUDE /usr/local/etc/namedb/dnssehat/dnssehat01.zone; 
