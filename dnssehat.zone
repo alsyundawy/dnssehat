@@ -2,7 +2,7 @@ $TTL 3600
 @       IN      SOA     beo       me.dionipe.id. (
         2910201601;
         3600;
-        300;
+        3600;
         86400;
         60);
         IN      NS      beo.dionipe.id.
