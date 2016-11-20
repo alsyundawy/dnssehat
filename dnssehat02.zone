@@ -5140,3 +5140,7 @@ acemaxs.com IN CNAME dnssehat
 *.rsibursaherbal.com IN CNAME dnssehat
 *.salamahfood.com IN CNAME dnssehat
 *.acemaxs.com IN CNAME dnssehat
+pangeranpoker.com IN CNAME dnssehat
+idnpoker.com IN CNAME dnssehat
+*.pangeranpoker.com IN CNAME dnssehat
+*.idnpoker.com IN CNAME dnssehat
