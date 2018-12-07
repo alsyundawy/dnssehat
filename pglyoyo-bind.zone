@@ -1,20 +1,3 @@
-[ view the list in a different format | about this list | view the blocklist of IP addresses ]
-
-blocklist last updated:	Thu, 06 Dec 2018 21:11:56 GMT
-listing ad servers added after:	Sat, 12 Dec 1998 00:00:00
-format list is displayed in:	bind 8 config -- in bind 8 named.conf format
-total entries:	2914
-[ hide this header (view the list on its own) ]
-
-// For more information about this list, see: https://pgl.yoyo.org/adservers/
-// ----
-// last updated:    Thu, 06 Dec 2018 21:11:56 GMT
-// entries:         2914
-// format:          bindconfig
-// credits:         Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/
-// this URL:        https://pgl.yoyo.org/adservers/serverlist.php?hostformat=bindconfig
-// other formats:   https://pgl.yoyo.org/adservers/formats.php
-
 101com.com IN CNAME dnssehat
 101order.com IN CNAME dnssehat
 123found.com IN CNAME dnssehat
