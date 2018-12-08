@@ -16,5 +16,4 @@ $INCLUDE /usr/local/etc/namedb/dnssehat/pglyoyo-bind.zone;
 $INCLUDE /usr/local/etc/namedb/dnssehat/ext/host-ad-mal.zone;
 $INCLUDE /usr/local/etc/namedb/dnssehat/ext/porn-ext.zone;
 $INCLUDE /usr/local/etc/namedb/dnssehat/ext/fakenews-ext.zone;
-$INCLUDE /usr/local/etc/namedb/dnssehat/ext/gabungan-semua.zone;
 $INCLUDE /usr/local/etc/namedb/dnssehat/dnssehat-etcreport.zone;
